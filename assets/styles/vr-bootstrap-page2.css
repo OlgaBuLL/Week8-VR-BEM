@@ -1,0 +1,62 @@
+.btn {
+  background: #5222d0;
+  color: #ffffff;
+  border-radius: 20px;
+  font-family: "Intro";
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 3rem;
+}
+
+.title {
+  font-family: "Intro";
+  width: 542px;
+  font-size: 60px;
+  font-weight: 400;
+  line-height: 72px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.card-title {
+  font-family: "Intro";
+}
+
+.card-text {
+  font-family: "Roboto Slab Light";
+}
+
+.icon {
+  margin-left: 0.5rem;
+}
+
+.nav {
+  padding: 5rem;
+}
+
+.nav__link:hover {
+  text-decoration: none;
+}
+
+.nav__link {
+  margin-right: 2rem;
+  color: #5222d0;
+  font-family: "Roboto Slab";
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 32px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.form-group {
+  background: #ec615b;
+  color: #ffffff;
+  padding-top: 1rem;
+  padding-bottom: 3rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
